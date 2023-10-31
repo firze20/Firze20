@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @firze20
-- 👀 I’m interested in NodeJS React SPFx  
-- 🌱 I’m currently Typescript Javascript ...
+- 👀 I’m interested in NodeJS React Typescript, Javascript, NextJS, SPFx, Serverless
+- 🌱 I’m currently working with Typescript, Javascript, React, PostGres,   ...
 
 
 <!---
