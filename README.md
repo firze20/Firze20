@@ -25,3 +25,7 @@ I’m a Node.js Developer based in Portugal!
 	•	Backend: Node.js, Express
 	•	Database: PostgreSQL, Sequelize
 	•	Tools: Docker, SharePoint Framework, AWS Amplify, Swagger UI
+
+🚀 Current Project
+
+[E-Commerce]: This repository ([https://github.com/firze20/E-Commerce]) is where I’m currently focusing my efforts. It’s built using Express Typescript, Sequelize ORM, Jest, Supertest, Docker and Nginx, and aims to [An online shop for portfolio purposes].
