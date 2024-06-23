@@ -28,4 +28,4 @@ I’m a Node.js Developer based in Portugal!
 
 🚀 Current Project
 
-[E-Commerce]: This repository [E-Commerce](https://github.com/firze20/E-Commerce) is where I’m currently focusing my efforts. It’s built using Express Typescript, Sequelize ORM, Jest, Supertest, Docker and Nginx, and aims to *An online shop where users can buy items, managers can manage items, stocks and categories, admins that can manage users*.
+__E-Commerce__: This repository [E-Commerce](https://github.com/firze20/E-Commerce) is where I’m currently focusing my efforts. It’s built using Express Typescript, Sequelize ORM, Jest, Supertest, Docker and Nginx, and aims to *An online shop where users can buy items, managers can manage items, stocks and categories, admins that can manage users*.
