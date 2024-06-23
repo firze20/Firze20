@@ -1,9 +1,27 @@
-- 👋 Hi, I’m @firze20
-- 👀 I’m interested in NodeJS React Typescript, Javascript, NextJS, SPFx, Serverless
-- 🌱 I’m currently working with Typescript, Javascript, React, Postgresql,   ...
+Hi there, I’m Fábio 👋
 
+I’m a Node.js Developer based in Portugal!
 
-<!---
-FabioPin/FabioPin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning:
+
+	•	Next.js - Building efficient and scalable server-side rendered applications.
+	•	Docker - Learning containerization to streamline development and deployment processes.
+	•	Amplify - Exploring AWS Amplify to develop and deploy scalable full-stack applications.
+
+💼 Experience:
+
+	•	React: Proficient in building dynamic and responsive user interfaces with React Query for state management.
+	•	Redux Toolkit: Skilled in managing application state using Redux Toolkit.
+	•	Typescript: Experienced in using TypeScript for building robust, error-free applications.
+	•	Tailwind CSS: Efficient in designing modern, responsive layouts using Tailwind.
+	•	Express: Extensive experience in developing robust API services.
+	•	API Documentation: Expertise in documenting APIs using Swagger (OpenAPI) to ensure clarity and ease of use for developers.
+	•	Sequelize & Postgres: Skilled in ORM techniques and managing databases using PostgreSQL.
+	•	SharePoint Framework: Experienced in customizing/building web parts and extending SharePoint functionalities.
+
+👨‍💻 Tech Stack:
+
+	•	Frontend: React, Next.js, Redux Toolkit, Tailwind CSS, TypeScript
+	•	Backend: Node.js, Express
+	•	Database: PostgreSQL, Sequelize
+	•	Tools: Docker, SharePoint Framework, AWS Amplify, Swagger UI
