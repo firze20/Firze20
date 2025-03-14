@@ -7,6 +7,7 @@ I’m a Node.js Developer based in Portugal!
 	•	Next.js - Building efficient and scalable server-side rendered applications.
 	•	Docker - Learning containerization to streamline development and deployment processes.
 	•	Amplify - Exploring AWS Amplify to develop and deploy scalable full-stack applications.
+ 	•	GraphQL - Exploring benefits how to use it properly.
 
 💼 Experience:
 
